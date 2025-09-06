@@ -179,17 +179,17 @@ dev_dependencies:
 <table>
   <tr>
     <td align="center">
-      <img src="screenshots/07-empty-state-dark.png" width="250px" alt="Home Screen - Dark Mode"/>
+      <img src="screenshots/07-empty-state-dark.jpg" width="250px" alt="Home Screen - Dark Mode"/>
       <br />
       <sub><b>Empty State - Dark Mode</b></sub>
     </td>
     <td align="center">
-      <img src="screenshots/08-empty-state-light.png" width="250px" alt="Home Screen - Light Mode"/>
+      <img src="screenshots/08-empty-state-light.jpg" width="250px" alt="Home Screen - Light Mode"/>
       <br />
       <sub><b>Empty State - Light Mode</b></sub>
     </td>
     <td align="center">
-      <img src="screenshots/04-search-interface.png" width="250px" alt="Search Interface"/>
+      <img src="screenshots/04-search-interface.jpg" width="250px" alt="Search Interface"/>
       <br />
       <sub><b>Search Interface</b></sub>
     </td>
@@ -200,17 +200,17 @@ dev_dependencies:
 <table>
   <tr>
     <td align="center">
-      <img src="screenshots/06-search-suggestions.png" width="250px" alt="Search Suggestions"/>
+      <img src="screenshots/06-search-suggestions.jpg" width="250px" alt="Search Suggestions"/>
       <br />
       <sub><b>Auto-complete Suggestions</b></sub>
     </td>
     <td align="center">
-      <img src="screenshots/05-loading-state.png" width="250px" alt="Loading State"/>
+      <img src="screenshots/05-loading-state.jpg" width="250px" alt="Loading State"/>
       <br />
       <sub><b>Loading State</b></sub>
     </td>
     <td align="center">
-      <img src="screenshots/02-weather-with-location.png" width="250px" alt="Weather with Location"/>
+      <img src="screenshots/02-weather-with-location.jpg" width="250px" alt="Weather with Location"/>
       <br />
       <sub><b>Weather Display with Location</b></sub>
     </td>
@@ -221,17 +221,17 @@ dev_dependencies:
 <table>
   <tr>
     <td align="center">
-      <img src="screenshots/01-weather-display-dark.png" width="250px" alt="Weather Display - Dark"/>
+      <img src="screenshots/01-weather-display-dark.jpg" width="250px" alt="Weather Display - Dark"/>
       <br />
       <sub><b>Dark Mode Display</b></sub>
     </td>
     <td align="center">
-      <img src="screenshots/03-weather-display-light.png" width="250px" alt="Weather Display - Light"/>
+      <img src="screenshots/03-weather-display-light.jpg" width="250px" alt="Weather Display - Light"/>
       <br />
       <sub><b>Light Mode Display</b></sub>
     </td>
     <td align="center">
-      <img src="screenshots/01-weather-display-dark.png" width="250px" alt="3-Day Forecast"/>
+      <img src="screenshots/01-weather-display-dark.jpg" width="250px" alt="3-Day Forecast"/>
       <br />
       <sub><b>3-Day Forecast</b></sub>
     </td>
